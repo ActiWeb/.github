@@ -5,7 +5,7 @@
 - 🔭 We are currently working on <a href="ertebat.loredu.ir">ertebat.loredu.ir</a>
 
 - 📫 How to reach us **actiweb.online@gmail.com**
-- Or call **+989027901490**
+- Or call <a href="tel:+989027901490">tel : +989027901490</a>
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://instagram.com/acti.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acti.web" height="30" width="40" /></a>
@@ -13,8 +13,10 @@
 <p>
   Members : 
   <ul>
-    <li>amirsajad ahmadi nizhad <a href="tel:+989027901490">tel : +989027901490</a></li>
-    <li>arian khosravi <a href="tel:+989024627407">tel : +989024627407</a> </li>
+    <li>amirsajad ahmadi nizhad
+      <a href="tel:+989027901490">tel : +989027901490</a></li>
+    <li>arian khosravi
+      <a href="tel:+989024627407">tel : +989024627407</a> </li>
   </ul>
 </p>
 
