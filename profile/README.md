@@ -21,7 +21,7 @@
 ---
 
 ### 👥 Members:
-- **Amirsajad Ahmadi Nizhad**  
+- **Amirsajad Ahmadi**  
   📞 [tel: +98 902 790 1490](tel:+989027901490)
 - **Arian Khosravi**  
   📞 [tel: +98 902 462 7407](tel:+989024627407)
